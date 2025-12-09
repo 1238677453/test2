@@ -1,0 +1,22 @@
+  {$MODESWITCH RESULT+}
+  {$MODESWITCH DEFAULTPARAMETERS+}
+  {$MODESWITCH CLASS-}
+  {$MODESWITCH OBJPAS-}
+  {$MODESWITCH OUT+}
+  {$MODESWITCH PCHARTOSTRING-}
+  {$MODESWITCH POINTERTOPROCVAR+}
+  {$MODESWITCH AUTODEREF+}
+  {$MODESWITCH EXCEPTIONS-}
+  {$ASMMODE INTEL}
+  {$COPERATORS ON}
+  {$GOTO OFF}
+
+
+  {$IFOPT D+} {$DEFINE DEBUG} {$ENDIF}
+  //{$DEFINE DEBUG} //Режим от-ладки
+  //{$DEFINE Py_GIL_DISABLED} //NOGIL сборка питона.
+  //{$DEFINE STACKLESS}
+  //{$DEFINE PY_LIMITED_API}
+  //{$DEFINE Py_PORTABLE} //Портабельный Питон без привязок в системе
+  {$DEFINE PY_3.13}//Питон 3.13
+  //{$DEFINE PY_CONSOLE}  //Нужен вывод в конслоль тестовых сообщений

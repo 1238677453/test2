@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="test.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="74"/>
+        <CursorPos X="25" Y="94"/>
+        <UsageCount Value="43"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="py_longobject.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="17"/>
+        <CursorPos X="14" Y="43"/>
+        <UsageCount Value="43"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="py_modsupport.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="4"/>
+        <ExtraEditorCount Value="1"/>
+        <ExtraEditor1>
+          <EditorIndex Value="-1"/>
+          <WindowIndex Value="-1"/>
+          <TopLine Value="549"/>
+          <CursorPos X="40" Y="591"/>
+        </ExtraEditor1>
+        <UsageCount Value="43"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="py_pymem.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="64"/>
+        <CursorPos X="84" Y="83"/>
+        <UsageCount Value="43"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="py_unicodeobject_ext.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="193"/>
+        <CursorPos X="52" Y="802"/>
+        <UsageCount Value="43"/>
+      </Unit>
+      <Unit>
+        <Filename Value="py_basetypes.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos Y="16"/>
+        <UsageCount Value="8"/>
+      </Unit>
+      <Unit>
+        <Filename Value="python.pas"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="622"/>
+        <CursorPos Y="622"/>
+        <ExtraEditorCount Value="1"/>
+        <ExtraEditor1>
+          <EditorIndex Value="-1"/>
+          <WindowIndex Value="1"/>
+          <TopLine Value="633"/>
+          <CursorPos X="15" Y="669"/>
+        </ExtraEditor1>
+        <UsageCount Value="22"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Z:\fpcupdeluxe\fpcsrc\rtl\inc\ctypes.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="57"/>
+        <CursorPos X="30" Y="72"/>
+        <UsageCount Value="8"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Z:\fpcupdeluxe\fpcsrc\rtl\inc\dynlibs.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="23"/>
+        <CursorPos X="61" Y="32"/>
+        <UsageCount Value="8"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Z:\fpcupdeluxe\fpcsrc\rtl\win\dynlibs.inc"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="5" Y="19"/>
+        <UsageCount Value="8"/>
+      </Unit>
+      <Unit>
+        <Filename Value="config.inc"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="14" Y="13"/>
+        <UsageCount Value="8"/>
+      </Unit>
+      <Unit>
+        <Filename Value="py_embedding.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="37" Y="17"/>
+        <UsageCount Value="18"/>
+      </Unit>
+      <Unit>
+        <Filename Value="py_atomic_ext.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="32" Y="22"/>
+        <UsageCount Value="8"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Z:\fpcupdeluxe\fpcsrc\rtl\inc\systemh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="567"/>
+        <CursorPos X="34" Y="684"/>
+        <UsageCount Value="8"/>
+      </Unit>
+      <Unit>
+        <Filename Value="unit1.pas"/>
+        <UnitName Value="Unit1"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="1"/>
+        <CursorPos X="3" Y="10"/>
+        <ExtraEditorCount Value="1"/>
+        <ExtraEditor1>
+          <EditorIndex Value="-1"/>
+          <CursorPos Y="10"/>
+        </ExtraEditor1>
+        <UsageCount Value="18"/>
+      </Unit>
+      <Unit>
+        <Filename Value="py_unicodeobject.pas"/>
+        <EditorIndex Value="5"/>
+        <TopLine Value="551"/>
+        <CursorPos X="33" Y="590"/>
+        <UsageCount Value="22"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="20">
+      <Position>
+        <Filename Value="test.pas"/>
+        <Caret Line="41" Column="33" TopLine="21"/>
+      </Position>
+      <Position>
+        <Filename Value="test.pas"/>
+        <Caret Line="5" Column="33"/>
+      </Position>
+      <Position>
+        <Filename Value="test.pas"/>
+        <Caret Line="47" Column="11" TopLine="27"/>
+      </Position>
+      <Position>
+        <Filename Value="test.pas"/>
+        <Caret Line="48" Column="9" TopLine="28"/>
+      </Position>
+      <Position>
+        <Filename Value="test.pas"/>
+        <Caret Line="47" Column="10" TopLine="27"/>
+      </Position>
+      <Position>
+        <Filename Value="test.pas"/>
+        <Caret Line="35" Column="29" TopLine="23"/>
+      </Position>
+      <Position>
+        <Filename Value="test.pas"/>
+        <Caret Line="42" Column="10" TopLine="22"/>
+      </Position>
+      <Position>
+        <Filename Value="test.pas"/>
+      </Position>
+      <Position>
+        <Filename Value="test.pas"/>
+        <Caret Line="32" Column="29"/>
+      </Position>
+      <Position>
+        <Filename Value="test.pas"/>
+        <Caret Line="138" TopLine="122"/>
+      </Position>
+      <Position>
+        <Filename Value="test.pas"/>
+        <Caret Line="88" Column="7" TopLine="68"/>
+      </Position>
+      <Position>
+        <Filename Value="test.pas"/>
+        <Caret Line="136" Column="34" TopLine="116"/>
+      </Position>
+      <Position>
+        <Filename Value="test.pas"/>
+        <Caret Line="108" Column="3" TopLine="88"/>
+      </Position>
+      <Position>
+        <Filename Value="test.pas"/>
+        <Caret Line="136" Column="34" TopLine="116"/>
+      </Position>
+      <Position>
+        <Filename Value="test.pas"/>
+        <Caret Line="88" Column="7" TopLine="68"/>
+      </Position>
+      <Position>
+        <Filename Value="test.pas"/>
+        <Caret Line="22" Column="7" TopLine="2"/>
+      </Position>
+      <Position>
+        <Filename Value="test.pas"/>
+        <Caret Line="11" Column="10"/>
+      </Position>
+      <Position>
+        <Filename Value="test.pas"/>
+        <Caret Line="8" Column="10"/>
+      </Position>
+      <Position>
+        <Filename Value="test.pas"/>
+        <Caret Line="7" Column="6"/>
+      </Position>
+      <Position>
+        <Filename Value="test.pas"/>
+        <Caret Line="9" Column="10"/>
+      </Position>
+      <Position>
+        <Filename Value="py_longobject.pas"/>
+        <Caret Line="43" Column="14" TopLine="17"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
